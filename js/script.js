@@ -145,6 +145,7 @@ function stampaBoxIcons (icons){
   }
 }
 
+
 // Faccio in modo che si vedano solo gli elementi dello stesso tipo quando vengono selezionati dal tag select
 
 let animalSelect = document.getElementById('animal').value;
